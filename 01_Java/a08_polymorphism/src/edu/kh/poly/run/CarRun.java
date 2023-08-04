@@ -89,5 +89,8 @@ public class CarRun {
 		
 		System.out.println(  ( (Spark)carArr[2] ).getDiscountRate() );
 		
+		
+		
+		// 공부함
 	}
 }
